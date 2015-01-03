@@ -15,6 +15,7 @@ Do you want to make your wp admin bar more smaller? WP Mini Admin Bar plugin wil
 
 Just simply install this plugin and it will be automatically effect on your admin bar.
 
+Support Blog: http://devstech.com/shrink-the-admin-bar-expand-on-hover-wordpress/
 
 == Installation ==
 
@@ -24,6 +25,7 @@ Just simply install this plugin and it will be automatically effect on your admi
 
 == Frequently Asked Questions ==
 
+Support Blog: http://devstech.com/shrink-the-admin-bar-expand-on-hover-wordpress/
 
 == Screenshots ==
 
