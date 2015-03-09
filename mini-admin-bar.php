@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WP Mini Admin Bar
-Plugin URI: http://devstech.com/shrink-the-admin-bar-expand-on-hover-wordpress/
+Plugin URI: http://www.wpthorp.com/shrink-the-admin-bar-expand-on-hover-wordpress/
 Description: Makes the admin bar a small button on the left and expands on hover.
 Author: Ataul Ghani
 Version: 1.0
-Author URI: http://devstech.com/
+Author URI: http://www.wpthorp.com/
 */
 
 add_action('get_header', 'wp_mini_head');
